@@ -43,6 +43,5 @@ Soy una persona entusiasta, organizada, adaptable, y con un enfoque práctico pa
 ## 📫 Contáctame
 
 - 💼 [LinkedIn](https://co.linkedin.com/public-profile/in/david-stevens-cartagena-navarro-248619199)
-- 📱 [WhatsApp](https://wa.link/brtyz4)
 
 © David Cartagena — Siempre creciendo 🌱, Siempre aprendiendo 💻.
