@@ -3,7 +3,10 @@
 ¡Hola! Soy **David Cartagena**, desarrollador FullStack con más de **3 años de experiencia** creando soluciones web y APIs eficientes. Me apasiona la programación, el aprendizaje continuo y enfrentar nuevos desafíos tecnológicos 🚀.
 
 Soy una persona entusiasta, organizada, adaptable, y con un enfoque práctico para resolver problemas con código limpio y escalable.
-<img src="https://i.pinimg.com/originals/fe/8b/0b/fe8b0bdd63a3f18afef5b0570a2a5c4c.gif" width="200"/>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fe/8b/0b/fe8b0bdd63a3f18afef5b0570a2a5c4c.gif" width="200" alt="GIF de programador feliz">
+</p>
 
 ---
 
