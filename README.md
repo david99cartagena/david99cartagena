@@ -15,24 +15,46 @@ Soy una persona entusiasta, organizada, adaptable, y con un enfoque práctico pa
 
 ## 🌟 Habilidades Técnicas
 
-**Lenguajes y Frameworks:**
+### 💬 Lenguajes
 
-- ⚙️ PHP, Python, TypeScript, JavaScript
-- 🧱 Laravel, Django, Angular
+- **Intermedio:** PHP, TypeScript
+- **Básico:** Python, .NET, Java
 
-**Bases de Datos:**
+### 🧩 Frameworks / Librerías
 
-- 🗄️ SQL Server, MySQL, PostgreSQL, Supabase
+- **Intermedio:** Laravel, Bootstrap, Angular (RxJS), React ( _Curso en proceso_, uso básico de hooks)
+- **Básico:** Django, Tailwind CSS, Angular Material
 
-**Frontend:**
+### 🗄️ Bases de Datos
 
-- 🖼️ HTML5, CSS3, Bootstrap
+- **Intermedio:** MySQL, SQL Server, PostgreSQL
+- **Básico:** Oracle
 
-**DevOps / Herramientas:**
+### 🔐 Autenticación / Documentación
 
-- 🐳 Docker, Git, GitHub Actions
-- 🧪 Swagger, SonarQube
-- ☁️ Render, GitHub Pages
+- **Intermedio:** JWT, Swagger
+- **Básico:** OAuth2, Auth0
+
+### 🛠️ DevOps / Herramientas
+
+- **Intermedio:** Git (GitLab, Bitbucket), Docker, Hyper-V
+- **Básico:** GitHub Actions, SVN, SonarQube, Ubuntu Server
+
+---
+
+## 📊 Estadísticas
+
+<tr>
+  <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=david99cartagena&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/>
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=david99cartagena&show_icons=true&hide=contribs,issues&theme=tokyonight"alt="GitHub Stats" title="Github Stats"/>
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david99cartagena&layout=compact&theme=tokyonight" alt="GitHub Most Used Languages" title="GitHub Most Used Languages"/>
+  </td>
+</tr>
 
 ---
 
