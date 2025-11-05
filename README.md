@@ -46,7 +46,7 @@ Soy una persona entusiasta, organizada, adaptable, y con un enfoque práctico pa
 
 <tr>
   <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=david99cartagena&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=david99cartagena&theme=tokyonight" alt="GitHub Streak" /></a>
   </td>
   <td>
     <img src="https://github-readme-stats.vercel.app/api?username=david99cartagena&show_icons=true&hide=contribs,issues&theme=tokyonight"alt="GitHub Stats" title="Github Stats"/>
