@@ -1,70 +1,57 @@
 # 💻 David Cartagena
 
-¡Hola! Soy **David Cartagena**, desarrollador FullStack con más de **3 años de experiencia** creando soluciones web y APIs eficientes. Me apasiona la programación, el aprendizaje continuo y enfrentar nuevos desafíos tecnológicos 🚀.
+👋 Hola, soy **David**, Ingeniero de Sistemas y Full Stack Developer con +4 años de experiencia construyendo aplicaciones web y APIs modernas.
 
-Soy una persona entusiasta, organizada, adaptable, y con un enfoque práctico para resolver problemas con código limpio y escalable.
+Me enfoco principalmente en **.ASP.NET Core (.NET)** para backend y **Angular** en frontend, desarrollando soluciones escalables, seguras y listas para producción 🚀.
 
-<!-- ![Desarrollando](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
-<!-- ![Desarrollando](https://i.pinimg.com/originals/fe/8b/0b/fe8b0bdd63a3f18afef5b0570a2a5c4c.gif) -->
+Además, tengo experiencia trabajando con **Laravel** y **React**, lo que me permite adaptarme fácilmente a distintos entornos y tecnologías.
+
+## 🚀 Stack Principal
+
+- ⚙️ **Backend:** .ASP.NET Core (.NET), Laravel, Django
+- 🎨 **Frontend:** Angular, React
+- 🗄️ **Bases de datos:** SQL Server, MySQL, PostgreSQL, Oracle
+- 🔐 **Seguridad:** JWT, OAuth2, Auth0
+- 📦 **DevOps:** Docker, AWS, GitHub Actions
+- 📄 **APIs:** REST, Swagger
+
+## 🧠 En qué me enfoco
+
+- Desarrollo de **APIs REST seguras y escalables**
+- Diseño de **arquitectura backend**
+- Optimización de consultas y rendimiento en bases de datos
+- Integración de sistemas y servicios
+- Despliegue de aplicaciones con **Docker y AWS**
+- Buenas prácticas: Clean Code, Git, Scrum
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/fe/8b/0b/fe8b0bdd63a3f18afef5b0570a2a5c4c.gif" width="200" alt="GIF de programador feliz">
+  <img src="https://github-readme-stats.vercel.app/api?username=david99cartagena&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david99cartagena&layout=compact&theme=tokyonight"/>
 </p>
 
----
+## 🌍 Portafolio
 
-## 🌟 Habilidades Técnicas
+🔗 https://david99cartagena.github.io
 
-### 💬 Lenguajes
+## 📫 Contacto
 
-- **Intermedio:** PHP, TypeScript
-- **Básico:** Python, .NET, Java
+- 💼 LinkedIn: https://www.linkedin.com/in/davidstevenscartagenanavarrodev
+- 📧 Email: dcartagenanavarro@gmail.com
 
-### 🧩 Frameworks / Librerías
+## 🚀 Actualmente
 
-- **Intermedio:** Laravel, Bootstrap, Angular (RxJS), React ( _Curso en proceso_, uso básico de hooks)
-- **Básico:** Django, Tailwind CSS, Angular Material
+Estoy enfocado en oportunidades como:
 
-### 🗄️ Bases de Datos
+- Backend Developer (.NET)
+- Full Stack Developer
+- Desarrollo de APIs y arquitectura moderna
 
-- **Intermedio:** MySQL, SQL Server, PostgreSQL
-- **Básico:** Oracle
+También estoy fortaleciendo conocimientos en:
 
-### 🔐 Autenticación / Documentación
-
-- **Intermedio:** JWT, Swagger
-- **Básico:** OAuth2, Auth0
-
-### 🛠️ DevOps / Herramientas
-
-- **Intermedio:** Git (GitLab, Bitbucket), Docker, Hyper-V
-- **Básico:** GitHub Actions, SVN, SonarQube, Ubuntu Server
-
----
-
-## 📊 Estadísticas
-
-<tr>
-  <td>
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=david99cartagena&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> -->
-    <!-- <img src="https://streak-stats.demolab.com?user=david99cartagena&theme=tokyonight" alt="GitHub Streak" /> -->
-  </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=david99cartagena&show_icons=true&hide=contribs,issues&theme=tokyonight"alt="GitHub Stats" title="Github Stats"/>
-  </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david99cartagena&layout=compact&theme=tokyonight" alt="GitHub Most Used Languages" title="GitHub Most Used Languages"/>
-  </td>
-</tr>
-
----
-
-## 🌍 Mi Portafolio
-
-📎 [https://david99cartagena.github.io](https://david99cartagena.github.io)
-
-## 📫 Contáctame
-
-- 💼 [LinkedIn](https://co.linkedin.com/public-profile/in/david-stevens-cartagena-navarro-248619199)
+- 🧪 Testing
+- ☁️ Cloud (AWS)
+- 🤖 Integración con IA
 
 © David Cartagena — Siempre creciendo 🌱, Siempre aprendiendo 💻.
